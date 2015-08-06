@@ -1,7 +1,7 @@
 <?php include('header.php'); ?>
 
 
-<h2>About</h2>
+<h2>contact</h2>
 
 <?php include('footer.php'); ?>
 
